@@ -1,20 +1,14 @@
 # ███╗░░██╗███████╗██╗░░░██╗██╗░██████╗░████████╗
-
 # ████╗░██║██╔════╝██║░░░██║██║██╔════╝░╚══██╔══╝
-
 # ██╔██╗██║█████╗░░╚██╗░██╔╝██║██║░░██╗░░░░██║░░░
-
 # ██║╚████║██╔══╝░░░╚████╔╝░██║██║░░╚██╗░░░██║░░░
-
 # ██║░╚███║███████╗░░╚██╔╝░░██║╚██████╔╝░░░██║░░░
-
 # ╚═╝░░╚══╝╚══════╝░░░╚═╝░░░╚═╝░╚═════╝░░░░╚═╝░░░
 
 ---
 
-# Ultimate Proxy — Fabulous README
+# Proxy
 
-*A polished, full-featured README for your proxy project — designed to be copy/paste-ready and absolutely fabulous.*
 
 > **Purpose:** This README documents how to run, develop, and deploy the Ultimate Proxy — a Node.js/Express proxy that handles JSON APIs, HLS (.m3u8) streaming, Cloudflare/JS-challenge pages (via Puppeteer), caching, header rewriting, and an admin UI.
 
