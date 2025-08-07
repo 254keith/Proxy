@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Admin - ProxyMagic</title>
+  <style>
+    body{ font-family: Arial, Helvetica, sans-serif; padding:20px; background:#fafafa; }
+    pre { background:#111; color:#eee; padding:12px; overflow:auto; max-height:400px; }
+  </style>
+</head>
+<body>
+  <h1>Proxy Admin</h1>
+  <h3>Cache</h3>
+  <p>Total cached keys: <strong><%= stats.totalCached %></strong></p>
+  <ul>
+    <% stats.keys.forEach(function(k){ %>
+      <li><%= k %></li>
+    <% }) %>
+  </ul>
+
+  <h3>Recent Logs</h3>
+  <pre><%= logs.join("\n") %></pre>
+</body>
+</html>

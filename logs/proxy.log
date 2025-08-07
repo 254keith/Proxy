@@ -1,0 +1,124 @@
+2025-08-07T21:18:29.784Z [error] ERROR: https://vercel-vooy.onrender.com/api/v1/home - net::ERR_INVALID_ARGUMENT at https://vercel-vooy.onrender.com/api/v1/home
+2025-08-07T21:21:40.093Z [error] PROXY ERROR for https://vercel-vooy.onrender.com/api/v1/home: Error: net::ERR_INVALID_ARGUMENT at https://vercel-vooy.onrender.com/api/v1/home
+    at navigate (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:170:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Deferred.race (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:31:20)
+    at async CdpFrame.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:25)
+    at async CdpPage.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:20)
+    at async handleProxyRequest (C:\Users\Admin\Downloads\proxy-project\proxy\puppeteerHandler.js:38:5)
+    at async C:\Users\Admin\Downloads\proxy-project\app.js:86:21
+2025-08-07T21:22:28.323Z [error] PROXY ERROR for https://vercel-vooy.onrender.com/api/v1/home: Error: net::ERR_INVALID_ARGUMENT at https://vercel-vooy.onrender.com/api/v1/home
+    at navigate (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:170:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Deferred.race (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:31:20)
+    at async CdpFrame.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:25)
+    at async CdpPage.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:20)
+    at async handleProxyRequest (C:\Users\Admin\Downloads\proxy-project\proxy\puppeteerHandler.js:38:5)
+    at async C:\Users\Admin\Downloads\proxy-project\app.js:86:21
+2025-08-07T21:22:50.603Z [error] PROXY ERROR for https://vercel-vooy.onrender.com/api/v1/home: Error: net::ERR_INVALID_ARGUMENT at https://vercel-vooy.onrender.com/api/v1/home
+    at navigate (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:170:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Deferred.race (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:31:20)
+    at async CdpFrame.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:25)
+    at async CdpPage.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:20)
+    at async handleProxyRequest (C:\Users\Admin\Downloads\proxy-project\proxy\puppeteerHandler.js:38:5)
+    at async C:\Users\Admin\Downloads\proxy-project\app.js:86:21
+2025-08-07T21:22:53.057Z [error] PROXY ERROR for https://vercel-vooy.onrender.com/api/v1/home: Error: net::ERR_INVALID_ARGUMENT at https://vercel-vooy.onrender.com/api/v1/home
+    at navigate (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:170:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Deferred.race (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:31:20)
+    at async CdpFrame.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:25)
+    at async CdpPage.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:20)
+    at async handleProxyRequest (C:\Users\Admin\Downloads\proxy-project\proxy\puppeteerHandler.js:38:5)
+    at async C:\Users\Admin\Downloads\proxy-project\app.js:86:21
+2025-08-07T21:25:48.253Z [error] PROXY ERROR for https://vercel-vooy.onrender.com/api/v1/home: Error: net::ERR_INVALID_ARGUMENT at https://vercel-vooy.onrender.com/api/v1/home
+    at navigate (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:170:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Deferred.race (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:31:20)
+    at async CdpFrame.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:25)
+    at async CdpPage.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:20)
+    at async handleProxyRequest (C:\Users\Admin\Downloads\proxy-project\proxy\puppeteerHandler.js:38:5)
+    at async C:\Users\Admin\Downloads\proxy-project\app.js:95:21
+2025-08-07T21:27:33.994Z [error] PROXY ERROR for https://vercel-vooy.onrender.com/api/v1/home: Error: net::ERR_TUNNEL_CONNECTION_FAILED at https://vercel-vooy.onrender.com/api/v1/home
+    at navigate (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:170:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Deferred.race (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:31:20)
+    at async CdpFrame.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:25)
+    at async CdpPage.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:20)
+    at async handleProxyRequest (C:\Users\Admin\Downloads\proxy-project\proxy\puppeteerHandler.js:47:5)
+    at async C:\Users\Admin\Downloads\proxy-project\app.js:95:21
+2025-08-07T21:28:46.038Z [error] PROXY ERROR for https://vercel-vooy.onrender.com/api/v1/home: Error: net::ERR_TUNNEL_CONNECTION_FAILED at https://vercel-vooy.onrender.com/api/v1/home
+    at navigate (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:170:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Deferred.race (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:31:20)
+    at async CdpFrame.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:25)
+    at async CdpPage.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:20)
+    at async handleProxyRequest (C:\Users\Admin\Downloads\proxy-project\proxy\puppeteerHandler.js:47:5)
+    at async C:\Users\Admin\Downloads\proxy-project\app.js:95:21
+2025-08-07T21:29:07.727Z [error] PROXY ERROR for https://vercel-vooy.onrender.com/api/v1/home: Error: net::ERR_TUNNEL_CONNECTION_FAILED at https://vercel-vooy.onrender.com/api/v1/home
+    at navigate (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:170:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Deferred.race (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:31:20)
+    at async CdpFrame.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:136:25)
+    at async CdpPage.goto (C:\Users\Admin\Downloads\proxy-project\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:20)
+    at async handleProxyRequest (C:\Users\Admin\Downloads\proxy-project\proxy\puppeteerHandler.js:47:5)
+    at async C:\Users\Admin\Downloads\proxy-project\app.js:95:21
+2025-08-07T21:52:33.082Z [error] UNCAUGHT ERROR: Error: Cannot find module 'ejs'
+Require stack:
+- C:\Users\Admin\Downloads\proxy-project\node_modules\express\lib\view.js
+- C:\Users\Admin\Downloads\proxy-project\node_modules\express\lib\application.js
+- C:\Users\Admin\Downloads\proxy-project\node_modules\express\lib\express.js
+- C:\Users\Admin\Downloads\proxy-project\node_modules\express\index.js
+- C:\Users\Admin\Downloads\proxy-project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at new View (C:\Users\Admin\Downloads\proxy-project\node_modules\express\lib\view.js:81:14)
+    at Function.render (C:\Users\Admin\Downloads\proxy-project\node_modules\express\lib\application.js:587:12)
+2025-08-07T21:52:36.382Z [error] UNCAUGHT ERROR: Error: Cannot find module 'ejs'
+Require stack:
+- C:\Users\Admin\Downloads\proxy-project\node_modules\express\lib\view.js
+- C:\Users\Admin\Downloads\proxy-project\node_modules\express\lib\application.js
+- C:\Users\Admin\Downloads\proxy-project\node_modules\express\lib\express.js
+- C:\Users\Admin\Downloads\proxy-project\node_modules\express\index.js
+- C:\Users\Admin\Downloads\proxy-project\app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at new View (C:\Users\Admin\Downloads\proxy-project\node_modules\express\lib\view.js:81:14)
+    at Function.render (C:\Users\Admin\Downloads\proxy-project\node_modules\express\lib\application.js:587:12)
+2025-08-07T21:54:26.334Z [info] FETCHED: https://vercel-vooy.onrender.com/api/v1/home
+2025-08-07T22:02:16.316Z [info] FETCHED: https://vercel-vooy.onrender.com/api/v1/home
+2025-08-07T22:05:31.898Z [info] FETCHED: https://vercel-vooy.onrender.com/api/v1/stream?type=dub&server=hd-4&id=steinsgate-3::ep=213
+2025-08-07T22:10:27.355Z [error] PROXY ERROR for https://vercel-vooy.onrender.com/: Error: Puppeteer error: net::ERR_TUNNEL_CONNECTION_FAILED at https://vercel-vooy.onrender.com/
+    at handleProxyRequest (C:\Users\Admin\Downloads\proxy-project\proxy\puppeteerHandler.js:80:11)
+    at async C:\Users\Admin\Downloads\proxy-project\app.js:95:21
+2025-08-07T22:11:07.487Z [info] FETCHED: https://vercel-vooy.onrender.com/api/v1/stream?type=sub&server=HD-1&id=steinsgate-3::ep=213
+2025-08-07T22:11:23.934Z [info] Proxy server running on http://localhost:3002
+2025-08-07T22:11:29.711Z [info] Fetching JSON via axios: https://vercel-vooy.onrender.com/api/v1/stream?type=sub&server=HD-1&id=steinsgate-3::ep=213
+2025-08-07T22:13:10.369Z [info] HEAD failed for https://cdn.dotstream.buzz/anime/eccbc87e4b5ce2fe28308fd9f2a7baf3/98960e8859d29683ad5984c4bae288af/master.m3u8 - falling back to GET probe: Request failed with status code 403
+2025-08-07T22:13:10.370Z [info] Attempting stream proxy via axios for: https://cdn.dotstream.buzz/anime/eccbc87e4b5ce2fe28308fd9f2a7baf3/98960e8859d29683ad5984c4bae288af/master.m3u8
+2025-08-07T22:13:10.405Z [error] Proxy error for https://cdn.dotstream.buzz/anime/eccbc87e4b5ce2fe28308fd9f2a7baf3/98960e8859d29683ad5984c4bae288af/master.m3u8: AxiosError: Request failed with status code 403
+    at settle (C:\Users\Admin\Downloads\proxy-project\node_modules\axios\dist\node\axios.cjs:2090:12)
+    at RedirectableRequest.handleResponse (C:\Users\Admin\Downloads\proxy-project\node_modules\axios\dist\node\axios.cjs:3155:9)
+    at RedirectableRequest.emit (node:events:519:35)
+    at RedirectableRequest._processResponse (C:\Users\Admin\Downloads\proxy-project\node_modules\follow-redirects\index.js:409:10)
+    at RedirectableRequest._onNativeResponse (C:\Users\Admin\Downloads\proxy-project\node_modules\follow-redirects\index.js:102:12)
+    at Object.onceWrapper (node:events:622:26)
+    at ClientRequest.emit (node:events:507:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:716:27)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:117:17)
+    at TLSSocket.socketOnData (node:_http_client:558:22)
+    at Axios.request (C:\Users\Admin\Downloads\proxy-project\node_modules\axios\dist\node\axios.cjs:4317:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async C:\Users\Admin\Downloads\proxy-project\app.js:200:24

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>ProxyMagic</title>
+  <style>
+    body { font-family: Arial, Helvetica, sans-serif; text-align:center; padding:40px; }
+    input[type=text]{ width:480px; padding:8px; }
+    button{ padding:8px 12px; }
+    .result { margin-top: 30px; text-align:left; max-width:1000px; margin-left:auto; margin-right:auto; }
+    pre { background:#111; color:#eee; padding:12px; overflow:auto; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to ProxyMagic</h1>
+  <form action="/" method="get">
+    <input type="text" name="url" placeholder="https://example.com/api/..." value="<%= url || '' %>" required>
+    <button type="submit">Go</button>
+  </form>
+
+  <% if (url) { %>
+    <div class="result">
+      <h2>Proxying: <%= url %></h2>
+      <iframe src="/proxy?url=<%= encodeURIComponent(url) %>" style="width:100%;height:600px;border:1px solid #ccc;"></iframe>
+    </div>
+  <% } %>
+</body>
+</html>
