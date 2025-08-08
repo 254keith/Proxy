@@ -122,3 +122,5 @@ Require stack:
     at Axios.request (C:\Users\Admin\Downloads\proxy-project\node_modules\axios\dist\node\axios.cjs:4317:41)
     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
     at async C:\Users\Admin\Downloads\proxy-project\app.js:200:24
+2025-08-08T00:16:45.485Z [info] Proxy server running on http://localhost:3002
+2025-08-08T00:16:56.899Z [info] Fetching JSON via axios: https://vercel-vooy.onrender.com/api/v1/home

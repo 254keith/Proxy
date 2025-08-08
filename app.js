@@ -242,3 +242,19 @@ app.listen(PORT, () => {
   logger.info(`Proxy server running on http://localhost:${PORT}`);
   console.log(`Proxy server running on http://localhost:${PORT}`);
 });
+// Enable CORS for all requests
+app.use((req, res, next) => {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header(
+    "Access-Control-Allow-Headers",
+    "Origin, X-Requested-With, Content-Type, Accept, Authorization"
+  );
+  res.header(
+    "Access-Control-Allow-Methods",
+    "GET, POST, PUT, DELETE, OPTIONS"
+  );
+  if (req.method === "OPTIONS") {
+    return res.sendStatus(200);
+  }
+  next();
+});
